@@ -112,8 +112,10 @@
 
   <modules>
     <module>google-cloud-dataproc-metastore</module>
-    <module>proto-google-cloud-dataproc-metastore-v1beta</module>
     <module>grpc-google-cloud-dataproc-metastore-v1beta</module>
+    <module>grpc-google-cloud-dataproc-metastore-v1alpha</module>
+    <module>proto-google-cloud-dataproc-metastore-v1beta</module>
+    <module>proto-google-cloud-dataproc-metastore-v1alpha</module>
     <module>google-cloud-dataproc-metastore-bom</module>
   </modules>
 
