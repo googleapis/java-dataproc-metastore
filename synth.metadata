@@ -11,16 +11,16 @@
       "git": {
         "name": "googleapis-gen",
         "remote": "https://github.com/googleapis/googleapis-gen.git",
-        "sha": "db31e3ff07d737b61ce968625aabbf660501688c",
-        "internalRef": "365064802"
+        "sha": "9f1fe1408a1799948f1b17add7c3a15145057718",
+        "internalRef": "365166289"
       }
     },
     {
       "git": {
         "name": "googleapis-gen",
         "remote": "https://github.com/googleapis/googleapis-gen.git",
-        "sha": "db31e3ff07d737b61ce968625aabbf660501688c",
-        "internalRef": "365064802"
+        "sha": "9f1fe1408a1799948f1b17add7c3a15145057718",
+        "internalRef": "365166289"
       }
     },
     {
