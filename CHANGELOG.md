@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/googleapis/java-dataproc-metastore/compare/v1.0.2...v1.1.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#82](https://www.github.com/googleapis/java-dataproc-metastore/issues/82)) ([70bfe2f](https://www.github.com/googleapis/java-dataproc-metastore/commit/70bfe2f17df65a8a294a3c8a19d8d2287d62d907))
+
 ### [1.0.2](https://www.github.com/googleapis/java-dataproc-metastore/compare/v1.0.1...v1.0.2) (2021-07-01)
 
 
