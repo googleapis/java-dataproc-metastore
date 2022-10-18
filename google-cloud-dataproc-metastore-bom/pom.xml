@@ -76,7 +76,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-dataproc-metastore-v1beta</artifactId>
-        <version>0.8.5-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-dataproc-metastore-v1beta:current} -->
+        <version>0.9.0</version><!-- {x-version-update:proto-google-cloud-dataproc-metastore-v1beta:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
