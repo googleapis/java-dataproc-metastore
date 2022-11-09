@@ -9,6 +9,13 @@ Java idiomatic client for [Dataproc Metastore][product-docs].
 - [Client Library Documentation][javadocs]
 
 
+:bus: In October 2022, this library has moved to
+[google-cloud-java/java-dataproc-metastore](
+https://github.com/googleapis/google-cloud-java/tree/main/java-dataproc-metastore).
+This repository will be archived in the future.
+Future releases will appear in the new repository (https://github.com/googleapis/google-cloud-java/releases).
+The Maven artifact coordinates (`com.google.cloud:google-cloud-dataproc-metastore`) remain the same.
+
 ## Quickstart
 
 
@@ -19,20 +26,20 @@ If you are using Maven, add this to your pom.xml file:
 <dependency>
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-dataproc-metastore</artifactId>
-  <version>2.4.4</version>
+  <version>2.6.0</version>
 </dependency>
 ```
 
 If you are using Gradle without BOM, add this to your dependencies:
 
 ```Groovy
-implementation 'com.google.cloud:google-cloud-dataproc-metastore:2.4.4'
+implementation 'com.google.cloud:google-cloud-dataproc-metastore:2.6.0'
 ```
 
 If you are using SBT, add this to your dependencies:
 
 ```Scala
-libraryDependencies += "com.google.cloud" % "google-cloud-dataproc-metastore" % "2.4.4"
+libraryDependencies += "com.google.cloud" % "google-cloud-dataproc-metastore" % "2.6.0"
 ```
 
 ## Authentication
